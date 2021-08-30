@@ -7,6 +7,8 @@
 <p>run npm install to download all the dependencies</p>
 <h4>step 3</h4> 
 <p>use npm run dev for nodemon to start</p>
+<h4>step 4</h4> 
+<p>use personal enviornment variables for mongo uri</p>
 
 <h2>main code is inside of script.js file</h2>
 
